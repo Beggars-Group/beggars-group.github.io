@@ -41,7 +41,7 @@ C --> F[蔚蓝档案伪装模块]
 
 ## 📡 跨宇宙通信协议
 + QQ： https://qm.qq.com/q/EyDRYXVIru  
-- GitHub： [bggp.github.io]  
+- GitHub： https://beggars-group.github.io
 - Gmail： [待接入]  
 - 微信： [待接入]
 
